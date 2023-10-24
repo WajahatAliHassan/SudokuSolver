@@ -6,5 +6,3 @@
 <p><b>Time Complexity:</b> O(9^(n*n))</p>
 <br>
 <p><b>Space Complexity:</b> O(1)</p>
-<br><br>
-<p>Still improving the algo of Soduku</p>
